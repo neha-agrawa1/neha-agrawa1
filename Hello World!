@@ -17,9 +17,12 @@
   <margin: 1000 px>
   <center> <h1> <strong>Hello World!</strong> </h1> 
   <h3> Looking for a fun place to go on vacation this summer? Use this website to find the perfect destination! </h3> </center>
+  <a href="#Asia>Asia</a>
+  <a href="#Europe>Europe</a>
 <br>
 <br>
 
+<div id="Asia"> 
   <center> <h2> Asia </h2> </center>
   <h3> Vietnam </h3>
   <p> Vietnam is a great spot for first-time travelers. Visit <i>Da Nang</i>, a coastal city with sandy beaches and nearby mountains with Buddhist shrines. Or take a trip to <i>Hoi An</i> in the central coast and absorb the Chinese, French and traditional Vietnamese architecture. </p>
@@ -34,6 +37,7 @@
 <br>
 <br>
 
+<div id="Europe">
   <center> <h2> Europe </h2> </center>
   <h3> Iceland </h3>
   <p> With waterfalls at every mile in the road, rich Viking and Norwegian history, and glaciers spanning as far as the eye can see, this hidden gem is sure to exceed all your expectations! Plus, you will get to see sheep and horses along the way. It is in the Arctic Circle, though, and it rains almost <strong>every day</strong>, so make sure to be prepared with proper winter and rain gear! </p>
